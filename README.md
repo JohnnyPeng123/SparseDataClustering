@@ -1,2 +1,2 @@
 # SparseDataClustering
-Application data simplication with clustering methods and decision trees
+Application data simplification with clustering methods and decision trees
