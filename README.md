@@ -20,5 +20,5 @@ https://github.com/JohnnyPeng123/SparseDataClustering/blob/master/Final%20Report
 You can also use the RshinyApp below to provide assit in terms of visualizing the clustered data:
 https://johnnypeng.shinyapps.io/sparsedataclustering/
 
-The code probably could be neater and cleaner, yf you have any question please feel free to email me via the email adddress below:
+The code probably could be a bit more neater and cleaner, please feel free to contact me via the email below:
 woshipjl@hotmail.com
