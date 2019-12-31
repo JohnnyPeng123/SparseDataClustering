@@ -6,7 +6,7 @@ Missing values in modelling data undermine the predictive power of the model whi
 Collected data from Akinator: 
 https://github.com/JohnnyPeng123/SparseDataClustering/blob/master/data.csv
 
-Clustering and apply decision tree to the collected data:
+Codes for clustering the collected data and fitting decision trees to the individual clusters of data:
 https://github.com/JohnnyPeng123/SparseDataClustering/blob/master/Cohort-based%20Decision%20Tree.R
 
 Appendix:
@@ -19,3 +19,6 @@ https://github.com/JohnnyPeng123/SparseDataClustering/blob/master/Final%20Report
 
 You can also use the RshinyApp below to provide assit in terms of visualizing the clustered data:
 https://johnnypeng.shinyapps.io/sparsedataclustering/
+
+The code probably could be neater and cleaner, yf you have any question please feel free to email me via the email adddress below:
+woshipjl@hotmail.com
