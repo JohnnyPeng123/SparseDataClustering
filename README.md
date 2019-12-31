@@ -1,6 +1,4 @@
 # SparseDataClustering
-Application data simplification with clustering methods and decision trees
-
 Missing values in modelling data undermine the predictive power of the model which bulit upon them. The purpose of this research is try to develop an approach for dividing sparse data with a lot of missing values into multiple smaller clusters of data, where missing values in each cluster are minimized, and hence individual predictive models can be bulit seperately based on the data in each individual clusters, and hence better overall predicition accuracy can be achieved. 
 
 Collected data from Akinator: 
